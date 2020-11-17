@@ -1,0 +1,10 @@
+C:\Users\dhurb\Desktop\REEEEEEEEEEEE\Advanced Voter ststem\Cookie clicker\Cookie Clicker\bin\Debug\Cookie Clicker.exe.config
+C:\Users\dhurb\Desktop\REEEEEEEEEEEE\Advanced Voter ststem\Cookie clicker\Cookie Clicker\bin\Debug\Cookie Clicker.exe
+C:\Users\dhurb\Desktop\REEEEEEEEEEEE\Advanced Voter ststem\Cookie clicker\Cookie Clicker\bin\Debug\Cookie Clicker.pdb
+C:\Users\dhurb\Desktop\REEEEEEEEEEEE\Advanced Voter ststem\Cookie clicker\Cookie Clicker\obj\Debug\Cookie Clicker.csprojAssemblyReference.cache
+C:\Users\dhurb\Desktop\REEEEEEEEEEEE\Advanced Voter ststem\Cookie clicker\Cookie Clicker\obj\Debug\Cookie_Clicker.Form1.resources
+C:\Users\dhurb\Desktop\REEEEEEEEEEEE\Advanced Voter ststem\Cookie clicker\Cookie Clicker\obj\Debug\Cookie_Clicker.Properties.Resources.resources
+C:\Users\dhurb\Desktop\REEEEEEEEEEEE\Advanced Voter ststem\Cookie clicker\Cookie Clicker\obj\Debug\Cookie Clicker.csproj.GenerateResource.cache
+C:\Users\dhurb\Desktop\REEEEEEEEEEEE\Advanced Voter ststem\Cookie clicker\Cookie Clicker\obj\Debug\Cookie Clicker.csproj.CoreCompileInputs.cache
+C:\Users\dhurb\Desktop\REEEEEEEEEEEE\Advanced Voter ststem\Cookie clicker\Cookie Clicker\obj\Debug\Cookie Clicker.exe
+C:\Users\dhurb\Desktop\REEEEEEEEEEEE\Advanced Voter ststem\Cookie clicker\Cookie Clicker\obj\Debug\Cookie Clicker.pdb
